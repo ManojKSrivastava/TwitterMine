@@ -4,13 +4,13 @@
 <h3>{{ message }}</h3>
 
 <address>
-    One Microsoft Way<br />
-    Redmond, WA 98052-6399<br />
+    Srivastava Consulting Group, Inc.<br />
+    Potomac, MD 20854<br />
     <abbr title="Phone">P:</abbr>
-    425.555.0100
+    240.855.3275
 </address>
 
 <address>
-    <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-    <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+    <strong>Support:</strong>   <a href="mailto:Support@srivastavaconsulting.com">Support@srivastavaconsulting.com</a><br />
+    <strong>Marketing:</strong> <a href="mailto:Marketing@srivastavaconsulting.com">Marketing@srivastavaconsulting.com</a>
 </address>
