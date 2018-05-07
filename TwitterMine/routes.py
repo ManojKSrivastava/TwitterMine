@@ -33,3 +33,12 @@ def about():
         message='Your application description page.',
         year=datetime.now().year
     )
+@route('/yahoo')
+@view('yahoo')
+def about():
+    """Renders the about page."""
+    return dict(
+        title='Yahoo!',
+        message='This is where one can iFrame www.yahoo.com',
+        year=datetime.now().year
+    )

@@ -64,6 +64,7 @@
     <Content Include="static\scripts\_references.js" />
     <None Include="TwitterTag - FTP.pubxml" />
     <None Include="TwitterTag - Web Deploy.pubxml" />
+    <Content Include="views\yahoo.tpl" />
     <Content Include="views\about.tpl" />
     <Content Include="views\contact.tpl" />
     <Content Include="views\index.tpl" />
